@@ -4,11 +4,13 @@
 make google calendar events from hebrew B-dates excel table. 
 
 
-first install 
-  pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+run from cmd:
+
+    pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+    
+    pip install pyluach
   
-  pip install pyluach
-  pip install openpyxl
+    pip install openpyxl
 
 
 google template for one time use: 
