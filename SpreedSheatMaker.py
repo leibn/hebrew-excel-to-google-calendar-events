@@ -99,8 +99,7 @@ def make_work_book(raw_date_path, next_n_years):
             sheets_list[n - 1].cell(row=row, column=column_index).value = row
             sheets_list[n - 1].cell(row=row, column=column_index + 1).value = \
                 sheet.cell(row=row, column=3).value
-            sheets_list[n - 1].cell(row=row, column=column_index + 5).value = \
-                sheet['c' + str(row)].value + " HebrewBirthDay "
+            sheets_list[n - 1].cell(row=row, column=column_index + 5).value = str(sheet['c' + str(row)].value) +" HebrewBirthDay "
             sheets_list[n - 1].cell(row=row, column=column_index + 7).value = "שורה 7"
             sheets_list[n - 1].cell(row=row, column=column_index + 8).value = "שורה 8"
             sheets_list[n - 1].cell(row=row, column=column_index + 9).value = \

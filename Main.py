@@ -21,10 +21,6 @@ next_n_years = int(input())
 if next_n_years < 1:
     next_n_years = int(1)
 
-# raw_date_path = "one_sample.xlsx"
-
-# next_n_years = 2
-
 work_book_name = make_work_book(excel_path, next_n_years)
 print(work_book_name)
 
