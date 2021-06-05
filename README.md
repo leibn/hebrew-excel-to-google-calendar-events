@@ -87,8 +87,6 @@ preview:
 
 ![image](https://user-images.githubusercontent.com/69406230/117210009-d1058e00-adff-11eb-8f96-4a8d29963703.png)
   
-  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FJerusalem&amp;src=djRpYTVnYWYzZGdkZjFuaWxkMGIyYmtvNGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-  
   
   https://calendar.google.com/calendar/u/1?cid=djRpYTVnYWYzZGdkZjFuaWxkMGIyYmtvNGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
   
