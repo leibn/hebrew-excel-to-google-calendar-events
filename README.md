@@ -88,12 +88,6 @@ preview:
 ![image](https://user-images.githubusercontent.com/69406230/117210009-d1058e00-adff-11eb-8f96-4a8d29963703.png)
   
   
-  https://calendar.google.com/calendar/u/1?cid=djRpYTVnYWYzZGdkZjFuaWxkMGIyYmtvNGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
-  
-  
-  
-  
-  
 
     
 
